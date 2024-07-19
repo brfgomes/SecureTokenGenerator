@@ -1,0 +1,14 @@
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\SecureTokenGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\SecureTokenGenerator.AssemblyInfoInputs.cache
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\SecureTokenGenerator.AssemblyInfo.cs
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\SecureTokenGenerator.csproj.CoreCompileInputs.cache
+C:\Dev\Backend\SecureTokenGenerator\bin\Debug\net8.0\SecureTokenGenerator.exe
+C:\Dev\Backend\SecureTokenGenerator\bin\Debug\net8.0\SecureTokenGenerator.deps.json
+C:\Dev\Backend\SecureTokenGenerator\bin\Debug\net8.0\SecureTokenGenerator.runtimeconfig.json
+C:\Dev\Backend\SecureTokenGenerator\bin\Debug\net8.0\SecureTokenGenerator.dll
+C:\Dev\Backend\SecureTokenGenerator\bin\Debug\net8.0\SecureTokenGenerator.pdb
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\SecureTokenGenerator.dll
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\refint\SecureTokenGenerator.dll
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\SecureTokenGenerator.pdb
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\SecureTokenGenerator.genruntimeconfig.cache
+C:\Dev\Backend\SecureTokenGenerator\obj\Debug\net8.0\ref\SecureTokenGenerator.dll
